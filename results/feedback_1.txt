@@ -1,0 +1,10 @@
+Q1i: The answer is correct and matches the mark scheme.
+Q1va: Correct answer!
+Q1vb: Correct answer!
+Q1vc: Correct answer provided.
+Q1iia: The answer does not capture the full scope of metabolism.
+Q1iib: The answer is missing key components of the definition.
+Q1iic: The answer is incomplete and doesn't directly address the concept of lifespan.
+Q1iv: The answer provided is not related to the correct answer.
+Q1iiia: The answer is missing, no valid points provided.
+Q1iiib: The answer directly addresses the question and aligns perfectly with the mark scheme.

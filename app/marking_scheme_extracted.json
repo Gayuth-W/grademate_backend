@@ -1,0 +1,64 @@
+{
+  "1": {
+    "question_text": "",
+    "roman_parts": {
+      "i": {
+        "text": "( about ) 3.5 billion / ( about ) 3.5X109",
+        "sub_parts": {},
+        "marks": 1
+      },
+      "ii": {
+        "text": "",
+        "sub_parts": {
+          "a": {
+            "text": "Sum of all chemical activities / catabolic and anabolic reactions / taking place in an organism .",
+            "marks": 1
+          },
+          "b": {
+            "text": "Irreversible increase in dry mass / weight ( of an organism )",
+            "marks": 1
+          },
+          "c": {
+            "text": "Irreversible changes that occur during the life span ( of an organism )",
+            "marks": 1
+          }
+        }
+      },
+      "iii": {
+        "text": "",
+        "sub_parts": {
+          "a": {
+            "text": "Production of high yielding varieties ( of plants and animals ) . Production of disease resistant varieties ( of plants and animals ) . Improving the postharvest technologies / methods .",
+            "marks": 3
+          },
+          "b": {
+            "text": "Increase of ( growth rate of ) human population",
+            "marks": 1
+          }
+        }
+      },
+      "iv": {
+        "text": "Archaeon",
+        "sub_parts": {},
+        "marks": 1
+      },
+      "v": {
+        "text": "",
+        "sub_parts": {
+          "a": {
+            "text": "Paleozoic",
+            "marks": 1
+          },
+          "b": {
+            "text": "Mesozoic",
+            "marks": 1
+          },
+          "c": {
+            "text": "Paleozoic",
+            "marks": 1
+          }
+        }
+      }
+    }
+  }
+}

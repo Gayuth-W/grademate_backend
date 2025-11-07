@@ -1,0 +1,11 @@
+Q1i: The answer is correct and matches the mark scheme.
+Q1iia: The answer is partially correct, capturing the 'reactions' aspect but lacking detail.
+Q1iib: The answer provided does not relate to the definition of growth in a biological context.
+Q1iic: The answer does not address the biological concept of irreversible changes in organisms.
+Q1iiia: The answer identifies disease resistance as a benefit, but the wording is not precise.
+Q1iiib: The answer directly addresses the prompt and aligns with the mark scheme.
+Q1ivb: The answer provided does not match the correct answer in the mark scheme.
+Q1va: Correct answer!
+Q1vb: Correct answer provided.
+Q1vc: Correct answer provided.
+Total Score: 6.5/12
